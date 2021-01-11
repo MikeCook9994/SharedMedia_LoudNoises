@@ -23,6 +23,7 @@ LSM:Register("sound", "|cFF0070DELoud Noises!: Step on my Sanity|r", [[Interface
 LSM:Register("sound", "|cFF0070DELoud Noises!: Well Well Well|r", [[Interface\Addons\SharedMedia_LoudNoises\sound\Well_Well_Well.ogg]]) 
 LSM:Register("sound", "|cFF0070DELoud Noises!: Who the Fuck are You?|r", [[Interface\Addons\SharedMedia_LoudNoises\sound\Who_The_Fuck_Are_You.ogg]]) 
 LSM:Register("sound", "|cFF0070DELoud Noises!: Inside another Man's Ass!|r", [[Interface\Addons\SharedMedia_LoudNoises\sound\Wodi_Inside.ogg]]) 
+LSM:Register("sound", "|cFF0070DELoud Noises!: I'm Doing the Balls Bro!|r", [[Interface\Addons\SharedMedia_LoudNoises\sound\Im_Doing_The_Balls_Bro.ogg]]) 
 
 -- -----
 --   STATUSBAR
